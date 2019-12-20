@@ -1,0 +1,27 @@
+<template>
+  <Menu theme="dark"
+        accordion>
+    <Submenu name="1">
+      <template slot="title">
+        <Icon type="ios-paper" />echarts
+      </template>
+      <MenuItem name="1-1"
+                to="/echarts/echarts_baiduMap">echarts结合百度地图</MenuItem>
+      <MenuItem name="1-2"
+                to="/echarts/echarts_json">json数据地图</MenuItem>
+    </Submenu>
+    <Submenu name="2">
+      <template slot="title">
+        <Icon type="ios-paper" />地图
+      </template>
+      <MenuItem name="2-1"
+                to="/baiduMap">百度地图</MenuItem>
+    </Submenu>
+  </Menu>
+</template>
+<script>
+export default {
+  methods: {},
+  mounted() { }
+}
+</script>

@@ -16,9 +16,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from django.conf.urls import url, include
+from django.views.generic import TemplateView
+import myWebsite.urls
+
+# 此处路由地址都是在server地址 http://127.0.0.1:8000/后的路径
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^api/', include(myWebsite.urls)),
+    url(r'^$', TemplateView.as_view(template_name="index.html")),
 ]
 
-
-from django.conf.urls import url

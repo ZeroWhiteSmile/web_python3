@@ -1,0 +1,10 @@
+{
+  "brace_style": "none,preserve-inline", // 为避免和eslint默认检查冲突，建议此属性设置为 none,preserve-inline
+  "indent_size": 2, // 缩进长度（为避免和eslint默认检查冲突，建议此属性设置为 2）
+  "indent_char": " ",
+  "jslint_happy": true,
+  "unformatted": [""],
+  "css": {
+    "indent_size": 2
+  }
+}
