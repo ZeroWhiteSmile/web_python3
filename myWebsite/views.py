@@ -1,12 +1,13 @@
 from django.shortcuts import render
 from django.views.decorators.http import require_http_methods
 from django.core import serializers
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponse
 import json
 
-from .models import Book
-
 # Create your views here.
+
+from .models import Book # 导入数据模块
+
 @require_http_methods(['GET'])
 def add_book(request):
     response = {}
@@ -33,3 +34,8 @@ def show_books(request):
         response['msg'] = str(e)
         response['error_num'] = 1
     return JsonResponse(response)
+
+
+@require_http_methods(["GET"])
+def msg(request, name, age):
+    return HttpResponse('My name is ' + name + ',i am ' + age + ' years old')
