@@ -1,0 +1,35 @@
+<template>
+  <div ref="echarts"
+       class="echarts"> </div>
+</template>
+<script>
+import chainaJson from './json/chaina.js'
+let echarts = require('echarts')
+export default {
+  data() {
+    return {}
+  },
+  mounted() {
+    this.initEcgarts()
+  },
+  methods: {
+    initEcgarts() {
+      echarts.registerMap('chaina', chainaJson)
+      let myCharts = echarts.init(this.$refs.echarts)
+      myCharts.showLoading()
+      myCharts.setOption({
+        series: [{
+          type: 'map',
+          map: 'chaina',
+        }]
+      })
+      myCharts.hideLoading()
+    }
+  }
+}
+</script>
+<style lang="scss" scoped>
+  .echarts {
+    width: 100%;
+  }
+</style>
