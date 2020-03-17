@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'myWebsite'  # 注册新创建的应用app
+    'myWebsite',  # 注册新创建的应用app
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
