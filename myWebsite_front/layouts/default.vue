@@ -1,10 +1,10 @@
 <template>
   <div class="content"
        :style="`height: ${clientH}px;`">
-    <navigation class="content_navigation"></navigation>
+    <navigation class="content_navigation" />
     <div class="content_content">
       <nuxt class="content_content__top" />
-      <bottom class="content_content__bott"></bottom>
+      <bottom class="content_content__bott" />
     </div>
   </div>
 </template>
@@ -15,6 +15,7 @@ import bottom from '@/components/footer_bar'
 import { mapState, mapGetters, mapActions } from 'vuex'
 
 export default {
+  middleware: 'stats',
   components: {
     navigation,
     bottom

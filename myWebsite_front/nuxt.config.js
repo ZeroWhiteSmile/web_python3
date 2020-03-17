@@ -60,11 +60,14 @@ module.exports = {
     extend(config, ctx) {},
     publicPath: '/static/', // 配置打包的静态资源文件目录。可以是cdn地址。默认是_nuxt文件夹
   },
-    /*
-     ** 配置 Nuxt.js 应用生成静态站点的具体方式。
-     */
+  /*
+   ** 配置 Nuxt.js 应用生成静态站点的具体方式。
+   */
   generate: {
     // dir: process.env.SITE_ENV === 'prod' ? 'dist/prod' : (process.env.SITE_ENV === 'qa' ? 'dist/qa' : 'dist/dev')
     dir: 'dist/'
+  },
+  router: {
+    middleware: 'stats'
   }
 }
