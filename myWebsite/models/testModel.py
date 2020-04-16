@@ -14,3 +14,4 @@ class Book(models.Model):
 
     class Meat:
         app_label = 'Book'
+        db_table = 'myWebsite_book'  # 自定义表名字，为了解决linux数据库表不区分大小写的问题
