@@ -1,1 +1,0 @@
-export const PERSONAL_INFO = 'PERSONAL_INFO'

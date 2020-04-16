@@ -1,3 +1,0 @@
-let promise_map = () => {
-
-}

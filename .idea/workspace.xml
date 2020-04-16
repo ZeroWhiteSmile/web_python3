@@ -2,18 +2,417 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="412d5703-37cf-4086-b513-ce3b97c257c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myWebsite/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myWebsite/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myWebsite/models/testModel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120115251.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120001.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120002.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120003.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120008.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120012.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120207.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120208.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120234.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120303.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120304.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120305.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120321.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120326.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120348.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120429.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120430.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120437.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120439.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120120440.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121137.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121139.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121154.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121207.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121211.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121223.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121227.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121232.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121236.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121242.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121247.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121253.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121255.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121406.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121407.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121547.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121648.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121747.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120121754.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122037.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122103.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122104.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122133.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122137.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122147.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122148.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122156.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122158.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122159.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122200.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122201.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122207.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122344.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122347.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122351.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122357.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122358.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122402.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122406.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120122410.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120141105.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191120141116.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143133.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143137.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143147.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143148.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143213.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143214.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143218.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143219.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143223.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143224.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143403.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143435.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191202143445.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203182059.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203182100.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203182107.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203182115.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184348.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184550.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184551.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184553.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184554.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184555.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184557.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184605.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203184610.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185011.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185019.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185047.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185129.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185151.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191203185205.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204111603.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204111611.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204111614.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204111621.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204111622.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113411.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113412.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113413.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113414.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113418.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113419.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113420.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113421.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113438.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113439.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113441.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113442.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113444.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113445.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113449.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113453.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113454.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204113455.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200103.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200220.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200237.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200243.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200245.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200255.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200256.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191204200301.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163632.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163722.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163732.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163932.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163940.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163955.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191205163957.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185031.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185032.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185618.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185626.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185633.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185657.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185709.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185717.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185722.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206185723.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191206190222.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191209180734.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191209183145.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191209183153.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191209183239.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191210175000.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191210175714.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211100722.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211103415.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211103416.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211103519.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211103534.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/components/navigation_bar_20191211103545.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191119184436.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113254.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113259.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113452.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113523.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113559.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113638.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113644.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113653.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113709.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113712.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120113812.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114010.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114039.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114049.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114222.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114223.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114224.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114244.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114315.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114335.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114336.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114400.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114401.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114402.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114403.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114448.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114449.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114633.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114641.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114706.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114710.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114720.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114722.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114725.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114739.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114748.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114848.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114859.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114909.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114911.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120114914.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115053.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115055.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115059.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115100.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115207.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115255.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115318.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115341.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115618.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115619.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115621.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115720.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115733.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115735.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115741.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115822.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115823.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115832.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115840.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115845.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115857.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115905.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115913.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115914.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120115943.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191120120118.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191203184445.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191203184530.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191203184540.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191204194835.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191206164346.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191206164848.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223154913.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223155055.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223155155.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223171556.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223171606.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223171624.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223171723.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223171748.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223173956.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174032.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174053.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174144.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174156.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174225.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174351.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174706.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174724.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174732.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174859.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174901.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223174958.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175111.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175209.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175239.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175649.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175724.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175740.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175749.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175755.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175801.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175836.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175847.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175857.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223175904.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180340.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180344.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180413.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180618.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180653.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180705.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180800.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180929.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180941.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223180944.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181155.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181215.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181240.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181353.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181510.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181520.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223181550.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223182404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20191223182406.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20200117115528.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20200117115535.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/layouts/default_20200117115635.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119184436.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119185518.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119185549.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119185611.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119190036.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119191814.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119192015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119192016.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119192050.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191119192122.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120103536.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112241.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112242.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112245.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112248.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112316.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112318.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112519.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191120112521.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202150437.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202150438.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202150450.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202150451.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202151738.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202151739.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152114.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152119.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152124.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152125.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152340.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152341.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152342.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152343.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152345.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152348.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152455.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152456.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152458.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152554.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152626.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191202152628.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191206162821.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/nuxt.config_20191206163748.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119184436.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119185834.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119185843.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119185845.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119190245.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119190307.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119190313.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191023.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191024.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191031.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191119.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191418.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191530.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191532.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191119191534.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112538.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112539.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112558.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112824.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112836.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112839.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112845.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112848.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112849.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112850.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112856.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112902.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112922.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112928.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120112929.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120113827.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120113828.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120113837.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120113901.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120113920.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120114015.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120114326.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120121538.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120121541.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122246.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122249.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122251.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122254.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122259.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122305.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122312.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122315.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122319.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122322.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122325.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122329.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122331.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122332.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191120122339.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191223162720.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191223162734.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191223162740.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191223162743.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/.history/pages/index_20191223162803.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/components/navigation_bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/components/navigation_bar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite_front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/echarts/echarts_baiduMap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/echarts/echarts_json.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/echarts/json/chaina.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/map/baiduMap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/map/googleMap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/map/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/map/openstreetmap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebsite_front/pages/python/miniProgram.vue" beforeDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebsite/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebsite/modles/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite/views/testView.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebsite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebsite/views/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebsite/views/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_websites/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_websites/settings.py" afterDir="false" />
+>>>>>>> bad8424caac7441c3e18d8bb83280f98f79594fc
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +432,9 @@
     <expand />
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="object_websites" />
   </component>
@@ -43,31 +445,26 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Study_objectMenu\Python\object_websites\apiTest\migrations" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Django tests.Test: myWebsite_front">
     <configuration name="Test: myWebsite_front" type="DjangoTestsConfigurationType" temporary="true">
@@ -120,6 +517,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -140,6 +549,14 @@
       <workItem from="1579233933192" duration="12945000" />
       <workItem from="1582687651041" duration="14628000" />
       <workItem from="1583203752564" duration="14003000" />
+<<<<<<< HEAD
+      <workItem from="1584446379006" duration="7000" />
+      <workItem from="1584446523961" duration="131000" />
+=======
+      <workItem from="1583488360850" duration="6961000" />
+      <workItem from="1583823204161" duration="1398000" />
+      <workItem from="1583824842928" duration="1307000" />
+>>>>>>> bad8424caac7441c3e18d8bb83280f98f79594fc
     </task>
     <servers />
   </component>
@@ -161,6 +578,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="203" key="SettingsEditor" timestamp="1583511133377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="203" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583511133377" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583824851501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583824851501" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/object_websites$Test__myWebsite_front.coverage" NAME="Test: myWebsite_front Coverage Results" MODIFIED="1578654425517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
