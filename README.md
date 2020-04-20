@@ -10,6 +10,10 @@ python manage.py makemigrations
 ## 生成数据库表
 python manage.py migrate
 
+## 执行静态资源收集命令（部署前准备）
+
+pyhton3 manage.py collectstatic
+
 ## 安装pip 
 python -m pip install --upgrade pip
 
