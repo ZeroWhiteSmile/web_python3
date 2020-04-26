@@ -19,7 +19,7 @@ def add_book(request):
         }
     except Exception as e:
         response['msg'] = str(e)
-        response['code'] = 500
+        response['code'] = 400
     return JsonResponse(response)
 
 @require_http_methods(["GET"])
@@ -33,7 +33,7 @@ def show_books(request):
         }
     except Exception as e:
         response['msg'] = str(e)
-        response['code'] = 500
+        response['code'] = 400
     return JsonResponse(response)
 
 
@@ -47,5 +47,5 @@ def msg(request, name, age):
         }
     except Exception as e:
         response['msg'] = str(e)
-        response['code'] = 500
+        response['code'] = 400
     return JsonResponse(response)
