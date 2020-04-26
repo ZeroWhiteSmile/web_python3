@@ -12,7 +12,7 @@ python manage.py migrate
 
 ## 执行静态资源收集命令（部署前准备）
 
-pyhton3 manage.py collectstatic
+python manage.py collectstatic
 
 ## 安装pip 
 python -m pip install --upgrade pip
